@@ -10,7 +10,7 @@ env:
   ### Replace <username> with GitHub username ###
   ###############################################
   DOCKER_IMAGE_NAME: marcuslopes-azure-ttt
-  AZURE_WEBAPP_NAME: marcuslopes-ttt-app
+  AZURE_WEBAPP_NAME: marcuslopes-ttt-app 
   ###############################################
 
 jobs:
